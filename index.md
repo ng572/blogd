@@ -8,4 +8,9 @@ With an aim of being informative and showing off some wrangle/viz skill at the s
 
 [//]: # (include pdf files from the repo like this: pdf/<file_name>.pdf)
 
+### TidyTuesday - Analyzing Movie Profits
+
+Horror seems to be a great category for movies in terms of profit, a phenomenon described by FiveThirtyEight.
+Horror movies usually turn out to be great investments, let’s see how this is happening with data.
+
 <object data="pdf/horror_movies.pdf" width="1000" height="1000" type='application/pdf'></object>
