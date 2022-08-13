@@ -2,6 +2,8 @@
 
 A series of data science blog produced with tools such as [Tidyverse](https://www.tidyverse.org/)
 
+With an aim of being informative and showing off some wrangle/viz skill at the same time.
+
 [//]: # (visualize pdf files with <object> tag https://talk.jekyllrb.com/t/embed-pdf-in-github-pages/4527/3)
 
 [//]: # (include pdf files from the repo like this: pdf/<file_name>.pdf)
