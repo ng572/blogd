@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## ng572's Data Science Blog
 
 [//]: # (visualize pdf files with <object> tag https://talk.jekyllrb.com/t/embed-pdf-in-github-pages/4527/3)
 
